@@ -33,7 +33,7 @@ version = 0.1
 
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]
-# version.filename = %(source.dir)s/main.py
+# version.filename = %(source.dir)s/mainV3.py
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
@@ -43,11 +43,11 @@ requirements = python3,kivy==2.1.0,kivymd==0.104.2,pillow==8.3.1
 # Sets custom source for any requirements with recipes
 # requirements.source.kivy = ../../kivy
 
-# (str) Presplash of the application
-presplash.filename = %(source.dir)s/images/presplash.png
 
-# (str) Icon of the application
-icon.filename = %(source.dir)s/images/favicon.png
+
+
+
+
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = portrait

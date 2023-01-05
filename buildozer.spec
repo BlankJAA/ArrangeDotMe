@@ -7,7 +7,7 @@ title = Arrange.ME
 package.name = Arrange.Me
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.Arrange.Me.com
+package.domain = org.ArrangeDotMe
 
 # (str) Directory containing the source code of your application
 source.dir = /home/styx/Desktop/ChatGPT/ArrangeDotMe
